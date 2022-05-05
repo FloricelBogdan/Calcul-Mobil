@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "249219173581",
+    "firebase_url": "https://aplicatei-default-rtdb.firebaseio.com",
+    "project_id": "aplicatei",
+    "storage_bucket": "aplicatei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249219173581:android:814ec4980a6a153828ad84",
+        "android_client_info": {
+          "package_name": "com.willteksoftwares.bda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249219173581-jdmppi5vmdl1p5qr1s1hqo6fdbul6g45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.willteksoftwares.bda",
+            "certificate_hash": "851be458ae8f85030b07645b5aa36a3fa4ad3973"
+          }
+        },
+        {
+          "client_id": "249219173581-tmh36hjjs7t9bd4nrb9shpoolhsqc6ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXE5UtK3uJ_Fn989zASOIgNa3jp_Y5yZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249219173581-tmh36hjjs7t9bd4nrb9shpoolhsqc6ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
